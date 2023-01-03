@@ -17,6 +17,10 @@
 
             pip install -r requirements.txt
 - Create a new file in your project folder named app.py
-- Runs the Flask development server:
+<!-- - Runs the Flask development server(i.e. app.py):
 
-            python -m flask run
+            python -m flask run -->
+
+- Runs the Flask development server( i.e.  main.py):
+
+            python main.py
